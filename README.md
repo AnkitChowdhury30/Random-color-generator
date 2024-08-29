@@ -1,0 +1,1 @@
+Developed a Random Color Generator using HTML, CSS, and JavaScript, allowing users to generate and copy both Hex and RGB color values. Implemented interactive features for dynamic color changes and clipboard functionality, enhancing user experience. This project improved my skills in front-end development and event-driven programming."
